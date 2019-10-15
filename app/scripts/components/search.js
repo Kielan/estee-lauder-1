@@ -11,24 +11,28 @@ const client            = algoliasearch(appKey, adminKey)
 const index             = client.initIndex('elc_data_index')
 const searchClient      = algoliasearch(appKey, searchClientKey)
 
-const saveAlgoliaSearch = (d)=>{
-    index
-        .saveObjects(d)
-        .then( () => console.log('Data sent to Algolia Search API!') )
-        .catch( error => console.log(error) )
-}
-
-const postAlgoliaSearch = ()=>{
-    
-    fetch(dataEndpoint)
-        .then( (response) => response.json() )
-        .then( (data) => saveAlgoliaSearch(data) )
-        
-}
-
-postAlgoliaSearch()
 
 class Search extends React.Component {
+    constructor(){
+        super()
+        this.postAlgoliaSearch()
+    }
+    
+    saveAlgoliaSearch(d){
+        index
+            .saveObjects(d)
+            .then( () => console.log('Data sent to Algolia Search API!') )
+            .catch( error => console.log(error) )
+    }
+
+    postAlgoliaSearch(){
+    
+        fetch(dataEndpoint)
+            .then( (response) => response.json() )
+            .then( (data) => this.saveAlgoliaSearch(data) )
+            
+    }
+
     render() {
         return (
             <section id="search">
