@@ -1,0 +1,351 @@
+:::: Log File ::::
+
+
+[5/9/2019 -- 18:1]  Info task started
+[5/9/2019 -- 18:8]  restarted!
+[5/9/2019 -- 18:9]  restarted!
+[5/9/2019 -- 21:7]  Scripts ran on main.js
+[5/9/2019 -- 21:7]  Scripts ran on main.js
+[5/9/2019 -- 21:8]  Scripts ran on main.js
+[5/9/2019 -- 21:15]  restarted!
+[5/9/2019 -- 21:15]  restarted!
+[5/9/2019 -- 21:16]  restarted!
+[5/9/2019 -- 21:16]  restarted!
+[5/9/2019 -- 21:16]  restarted!
+[5/9/2019 -- 21:17]  restarted!
+[5/9/2019 -- 21:19]  restarted!
+[5/9/2019 -- 21:19]  restarted!
+[5/9/2019 -- 21:21]  restarted!
+[5/9/2019 -- 21:21]  restarted!
+[5/9/2019 -- 21:25]  restarted!
+[5/9/2019 -- 21:30]  restarted!
+[5/9/2019 -- 21:33]  restarted!
+[5/9/2019 -- 21:33]  restarted!
+[5/9/2019 -- 21:33]  restarted!
+[5/9/2019 -- 21:37]  restarted!
+[5/9/2019 -- 21:37]  restarted!
+[5/9/2019 -- 21:37]  restarted!
+[5/9/2019 -- 21:37]  restarted!
+[5/9/2019 -- 21:37]  restarted!
+[5/9/2019 -- 21:38]  restarted!
+[5/9/2019 -- 21:38]  restarted!
+[5/9/2019 -- 21:42]  restarted!
+[5/9/2019 -- 21:42]  restarted!
+[5/9/2019 -- 21:42]  restarted!
+[5/9/2019 -- 21:42]  restarted!
+[5/9/2019 -- 21:44]  restarted!
+[5/9/2019 -- 21:44]  restarted!
+[5/9/2019 -- 21:45]  restarted!
+[5/9/2019 -- 21:45]  restarted!
+[5/9/2019 -- 21:49]  restarted!
+[5/9/2019 -- 21:49]  restarted!
+[5/9/2019 -- 21:50]  restarted!
+[5/9/2019 -- 21:50]  restarted!
+[5/9/2019 -- 21:52]  restarted!
+[5/9/2019 -- 22:3]  restarted!
+[5/9/2019 -- 22:3]  restarted!
+[5/9/2019 -- 22:3]  restarted!
+[5/9/2019 -- 22:3]  restarted!
+[5/9/2019 -- 22:3]  restarted!
+[5/9/2019 -- 22:4]  restarted!
+[5/9/2019 -- 22:6]  restarted!
+[5/9/2019 -- 22:6]  restarted!
+[5/9/2019 -- 22:9]  restarted!
+[5/9/2019 -- 22:9]  restarted!
+[5/9/2019 -- 22:14]  restarted!
+[5/9/2019 -- 22:14]  restarted!
+[5/9/2019 -- 22:14]  restarted!
+[5/9/2019 -- 22:14]  restarted!
+[5/9/2019 -- 22:14]  restarted!
+[6/9/2019 -- 6:8]  restarted!
+[6/9/2019 -- 6:15]  Scripts ran on main.js
+[6/9/2019 -- 6:15]  Scripts ran on main.js
+[6/9/2019 -- 6:15]  Scripts ran on main.js
+[6/9/2019 -- 6:15]  Scripts ran on main.js
+[6/9/2019 -- 6:16]  Scripts ran on main.js
+[6/9/2019 -- 6:16]  Scripts ran on main.js
+[6/9/2019 -- 6:16]  Scripts ran on main.js
+[6/9/2019 -- 6:31]  Mustache Templates ran on the HTML files
+[6/9/2019 -- 6:31]  Mustache Templates ran on the HTML files
+[6/9/2019 -- 6:54]  Info task started
+[6/9/2019 -- 7:0]  Mustache Templates ran on the HTML files
+[6/9/2019 -- 7:0]  Mustache Templates ran on the HTML files
+[6/9/2019 -- 7:0]  Mustache Templates ran on the HTML files
+[6/9/2019 -- 7:0]  Mustache Templates ran on the HTML files
+[6/9/2019 -- 7:1]  Mustache Templates ran on the HTML files
+[6/9/2019 -- 7:1]  Mustache Templates ran on the HTML files
+[6/9/2019 -- 7:1]  Mustache Templates ran on the HTML files
+[6/9/2019 -- 7:1]  restarted!
+[6/9/2019 -- 7:1]  restarted!
+[6/9/2019 -- 7:2]  Info task started
+[6/9/2019 -- 7:3]  restarted!
+[6/9/2019 -- 7:22]  Info task started
+[6/9/2019 -- 7:23]  restarted!
+[6/9/2019 -- 7:24]  Info task started
+[6/9/2019 -- 7:24]  restarted!
+[6/9/2019 -- 7:33]  Info task started
+[6/9/2019 -- 7:37]  restarted!
+[6/9/2019 -- 7:38]  restarted!
+[6/9/2019 -- 7:38]  restarted!
+[6/9/2019 -- 7:38]  restarted!
+[6/9/2019 -- 7:38]  restarted!
+[6/9/2019 -- 7:39]  restarted!
+[6/9/2019 -- 7:39]  restarted!
+[6/9/2019 -- 7:41]  restarted!
+[6/9/2019 -- 7:44]  restarted!
+[6/9/2019 -- 7:51]  restarted!
+[6/9/2019 -- 7:51]  restarted!
+[6/9/2019 -- 7:51]  restarted!
+[6/9/2019 -- 7:51]  restarted!
+[6/9/2019 -- 7:54]  restarted!
+[6/9/2019 -- 7:55]  restarted!
+[6/9/2019 -- 7:57]  restarted!
+[6/9/2019 -- 7:57]  restarted!
+[6/9/2019 -- 8:4]  restarted!
+[6/9/2019 -- 8:6]  restarted!
+[6/9/2019 -- 8:7]  restarted!
+[6/9/2019 -- 8:8]  restarted!
+[6/9/2019 -- 8:9]  restarted!
+[6/9/2019 -- 8:11]  restarted!
+[6/9/2019 -- 8:12]  restarted!
+[6/9/2019 -- 8:12]  restarted!
+[6/9/2019 -- 8:12]  restarted!
+[6/9/2019 -- 8:12]  restarted!
+[6/9/2019 -- 8:14]  restarted!
+[6/9/2019 -- 8:17]  restarted!
+[6/9/2019 -- 8:18]  restarted!
+[6/9/2019 -- 8:18]  restarted!
+[6/9/2019 -- 8:18]  restarted!
+[6/9/2019 -- 8:19]  restarted!
+[6/9/2019 -- 8:20]  restarted!
+[6/9/2019 -- 8:20]  restarted!
+[6/9/2019 -- 8:21]  restarted!
+[6/9/2019 -- 8:23]  restarted!
+[6/9/2019 -- 8:26]  restarted!
+[6/9/2019 -- 8:31]  restarted!
+[6/9/2019 -- 8:35]  restarted!
+[6/9/2019 -- 8:35]  restarted!
+[6/9/2019 -- 8:36]  restarted!
+[6/9/2019 -- 8:37]  restarted!
+[6/9/2019 -- 8:40]  restarted!
+[6/9/2019 -- 8:40]  restarted!
+[6/9/2019 -- 8:40]  restarted!
+[6/9/2019 -- 8:40]  restarted!
+[6/9/2019 -- 8:41]  restarted!
+[6/9/2019 -- 8:43]  restarted!
+[6/9/2019 -- 8:44]  restarted!
+[6/9/2019 -- 8:45]  restarted!
+[6/9/2019 -- 8:46]  restarted!
+[6/9/2019 -- 8:47]  restarted!
+[6/9/2019 -- 8:47]  restarted!
+[6/9/2019 -- 8:49]  restarted!
+[6/9/2019 -- 8:49]  restarted!
+[6/9/2019 -- 8:50]  restarted!
+[6/9/2019 -- 8:50]  restarted!
+[6/9/2019 -- 8:50]  restarted!
+[6/9/2019 -- 8:50]  restarted!
+[6/9/2019 -- 8:50]  restarted!
+[6/9/2019 -- 8:50]  restarted!
+[6/9/2019 -- 8:50]  restarted!
+[6/9/2019 -- 8:50]  restarted!
+[6/9/2019 -- 8:52]  restarted!
+[6/9/2019 -- 8:52]  restarted!
+[6/9/2019 -- 8:52]  restarted!
+[6/9/2019 -- 8:53]  restarted!
+[6/9/2019 -- 8:53]  restarted!
+[6/9/2019 -- 8:54]  restarted!
+[6/9/2019 -- 8:54]  restarted!
+[6/9/2019 -- 8:56]  restarted!
+[6/9/2019 -- 8:56]  restarted!
+[6/9/2019 -- 8:57]  restarted!
+[6/9/2019 -- 9:4]  restarted!
+[6/9/2019 -- 9:6]  Info task started
+[6/9/2019 -- 9:11]  Info task started
+[6/9/2019 -- 9:12]  restarted!
+[6/9/2019 -- 9:12]  restarted!
+[6/9/2019 -- 9:15]  Info task started
+[6/9/2019 -- 9:16]  restarted!
+[6/9/2019 -- 9:16]  restarted!
+[6/9/2019 -- 9:17]  restarted!
+[6/9/2019 -- 9:17]  restarted!
+[6/9/2019 -- 9:18]  restarted!
+[6/9/2019 -- 9:18]  restarted!
+[6/9/2019 -- 9:19]  restarted!
+[6/9/2019 -- 9:19]  restarted!
+[6/9/2019 -- 9:19]  restarted!
+[6/9/2019 -- 9:20]  restarted!
+[6/9/2019 -- 9:20]  restarted!
+[6/9/2019 -- 9:20]  restarted!
+[6/9/2019 -- 9:21]  restarted!
+[6/9/2019 -- 9:21]  restarted!
+[6/9/2019 -- 9:21]  restarted!
+[6/9/2019 -- 9:22]  restarted!
+[6/9/2019 -- 9:38]  Scripts ran on main.js
+[6/9/2019 -- 9:39]  Scripts ran on main.js
+[6/9/2019 -- 9:42]  Scripts ran on main.js
+[6/9/2019 -- 9:42]  Scripts ran on main.js
+[6/9/2019 -- 9:43]  Scripts ran on main.js
+[6/9/2019 -- 9:43]  Scripts ran on main.js
+[6/9/2019 -- 9:45]  Scripts ran on main.js
+[6/9/2019 -- 9:45]  Scripts ran on main.js
+[6/9/2019 -- 10:1]  Scripts ran on main.js
+[6/9/2019 -- 10:2]  Scripts ran on main.js
+[6/9/2019 -- 10:2]  Scripts ran on main.js
+[6/9/2019 -- 10:10]  Info task started
+[6/9/2019 -- 10:11]  Scripts ran on main.js
+[6/9/2019 -- 10:13]  Scripts ran on main.js
+[6/9/2019 -- 10:13]  Scripts ran on main.js
+[6/9/2019 -- 10:15]  Scripts ran on main.js
+[6/9/2019 -- 10:15]  Scripts ran on main.js
+[6/9/2019 -- 10:16]  restarted!
+[6/9/2019 -- 10:16]  restarted!
+[6/9/2019 -- 10:25]  Info task started
+[6/9/2019 -- 10:32]  Scripts ran on main.js
+[6/9/2019 -- 10:33]  Scripts ran on main.js
+[6/9/2019 -- 10:35]  Scripts ran on main.js
+[6/9/2019 -- 10:38]  Scripts ran on main.js
+[6/9/2019 -- 10:40]  Scripts ran on main.js
+[6/9/2019 -- 10:42]  Scripts ran on main.js
+[6/9/2019 -- 10:43]  Scripts ran on main.js
+[6/9/2019 -- 10:43]  Scripts ran on main.js
+[6/9/2019 -- 10:44]  Scripts ran on main.js
+[6/9/2019 -- 10:44]  Scripts ran on main.js
+[6/9/2019 -- 10:44]  Scripts ran on main.js
+[6/9/2019 -- 10:45]  Scripts ran on main.js
+[6/9/2019 -- 10:46]  Scripts ran on main.js
+[6/9/2019 -- 10:46]  Scripts ran on main.js
+[6/9/2019 -- 10:47]  Scripts ran on main.js
+[6/9/2019 -- 10:52]  Scripts ran on main.js
+[6/9/2019 -- 10:57]  Scripts ran on main.js
+[6/9/2019 -- 10:57]  Scripts ran on main.js
+[6/9/2019 -- 10:59]  Scripts ran on main.js
+[6/9/2019 -- 10:59]  Scripts ran on main.js
+[6/9/2019 -- 11:1]  Scripts ran on main.js
+[6/9/2019 -- 11:1]  Scripts ran on main.js
+[6/9/2019 -- 11:2]  Scripts ran on main.js
+[6/9/2019 -- 11:2]  Scripts ran on main.js
+[6/9/2019 -- 11:3]  Scripts ran on main.js
+[6/9/2019 -- 11:3]  Scripts ran on main.js
+[6/9/2019 -- 11:3]  Scripts ran on main.js
+[6/9/2019 -- 11:4]  Scripts ran on main.js
+[6/9/2019 -- 11:4]  Scripts ran on main.js
+[6/9/2019 -- 11:5]  Scripts ran on main.js
+[6/9/2019 -- 11:5]  Scripts ran on main.js
+[6/9/2019 -- 11:18]  Scripts ran on main.js
+[6/9/2019 -- 11:21]  Scripts ran on main.js
+[6/9/2019 -- 11:21]  Scripts ran on main.js
+[6/9/2019 -- 11:23]  Scripts ran on main.js
+[6/9/2019 -- 11:29]  Scripts ran on main.js
+[6/9/2019 -- 11:30]  Scripts ran on main.js
+[6/9/2019 -- 11:31]  Scripts ran on main.js
+[6/9/2019 -- 11:35]  Info task started
+[6/9/2019 -- 12:1]  Sass ran on files
+[6/9/2019 -- 12:1]  Sass ran on files
+[6/9/2019 -- 12:11]  Scripts ran on main.js
+[6/9/2019 -- 12:14]  Info task started
+[6/9/2019 -- 12:14]  Sass ran on files
+[6/9/2019 -- 12:16]  Scripts ran on main.js
+[6/9/2019 -- 12:16]  Scripts ran on main.js
+[6/9/2019 -- 12:18]  Scripts ran on main.js
+[6/9/2019 -- 12:18]  Scripts ran on main.js
+[6/9/2019 -- 12:18]  Sass ran on files
+[6/9/2019 -- 12:18]  Sass ran on files
+[6/9/2019 -- 12:23]  Sass ran on files
+[6/9/2019 -- 12:23]  Sass ran on files
+[6/9/2019 -- 12:24]  Sass ran on files
+[6/9/2019 -- 12:24]  Sass ran on files
+[6/9/2019 -- 12:32]  Sass ran on files
+[6/9/2019 -- 12:32]  Sass ran on files
+[6/9/2019 -- 12:32]  Sass ran on files
+[6/9/2019 -- 12:32]  Sass ran on files
+[6/9/2019 -- 12:33]  Sass ran on files
+[6/9/2019 -- 12:33]  Sass ran on files
+[6/9/2019 -- 12:34]  Sass ran on files
+[6/9/2019 -- 12:34]  Sass ran on files
+[6/9/2019 -- 12:34]  Sass ran on files
+[6/9/2019 -- 12:46]  Sass ran on files
+[6/9/2019 -- 12:46]  Sass ran on files
+[6/9/2019 -- 12:46]  Sass ran on files
+[6/9/2019 -- 12:47]  Sass ran on files
+[6/9/2019 -- 12:48]  Sass ran on files
+[6/9/2019 -- 12:48]  Sass ran on files
+[6/9/2019 -- 12:50]  Sass ran on files
+[6/9/2019 -- 12:51]  Sass ran on files
+[6/9/2019 -- 12:52]  Scripts ran on main.js
+[6/9/2019 -- 12:52]  Scripts ran on main.js
+[6/9/2019 -- 12:53]  Scripts ran on main.js
+[6/9/2019 -- 12:53]  Scripts ran on main.js
+[6/9/2019 -- 12:57]  Scripts ran on main.js
+[6/9/2019 -- 12:58]  Scripts ran on main.js
+[6/9/2019 -- 12:58]  Scripts ran on main.js
+[6/9/2019 -- 12:59]  Scripts ran on main.js
+[6/9/2019 -- 12:59]  Scripts ran on main.js
+[6/9/2019 -- 13:0]  Sass ran on files
+[6/9/2019 -- 13:0]  Sass ran on files
+[6/9/2019 -- 13:1]  Sass ran on files
+[6/9/2019 -- 13:2]  Sass ran on files
+[6/9/2019 -- 13:3]  Sass ran on files
+[6/9/2019 -- 13:4]  Sass ran on files
+[6/9/2019 -- 13:4]  Sass ran on files
+[6/9/2019 -- 13:4]  Sass ran on files
+[6/9/2019 -- 13:4]  Sass ran on files
+[6/9/2019 -- 13:7]  Sass ran on files
+[6/9/2019 -- 13:8]  Sass ran on files
+[6/9/2019 -- 13:9]  Sass ran on files
+[6/9/2019 -- 13:9]  Sass ran on files
+[6/9/2019 -- 13:9]  Sass ran on files
+[6/9/2019 -- 13:10]  Info task started
+[6/9/2019 -- 13:12]  Sass ran on files
+[6/9/2019 -- 13:15]  Sass ran on files
+[6/9/2019 -- 13:16]  Sass ran on files
+[6/9/2019 -- 13:16]  Sass ran on files
+[6/9/2019 -- 13:17]  Sass ran on files
+[6/9/2019 -- 13:17]  Sass ran on files
+[6/9/2019 -- 13:17]  Sass ran on files
+[6/9/2019 -- 13:17]  Sass ran on files
+[6/9/2019 -- 13:18]  Sass ran on files
+[6/9/2019 -- 13:18]  Sass ran on files
+[6/9/2019 -- 13:18]  Sass ran on files
+[6/9/2019 -- 13:19]  Sass ran on files
+[6/9/2019 -- 13:20]  Sass ran on files
+[6/9/2019 -- 13:22]  Sass ran on files
+[6/9/2019 -- 13:22]  Sass ran on files
+[6/9/2019 -- 13:23]  Sass ran on files
+[6/9/2019 -- 13:24]  Sass ran on files
+[6/9/2019 -- 13:25]  Scripts ran on main.js
+[6/9/2019 -- 13:25]  Scripts ran on main.js
+[6/9/2019 -- 13:26]  Sass ran on files
+[6/9/2019 -- 13:26]  Sass ran on files
+[6/9/2019 -- 13:27]  Sass ran on files
+[6/9/2019 -- 13:28]  Sass ran on files
+[6/9/2019 -- 13:28]  Sass ran on files
+[6/9/2019 -- 13:29]  Scripts ran on main.js
+[6/9/2019 -- 13:29]  Scripts ran on main.js
+[6/9/2019 -- 13:30]  Scripts ran on main.js
+[6/9/2019 -- 13:31]  Scripts ran on main.js
+[6/9/2019 -- 13:31]  Scripts ran on main.js
+[6/9/2019 -- 13:32]  Scripts ran on main.js
+[6/9/2019 -- 13:32]  Scripts ran on main.js
+[6/9/2019 -- 13:32]  Scripts ran on main.js
+[6/9/2019 -- 13:33]  Sass ran on files
+[6/9/2019 -- 13:34]  Scripts ran on main.js
+[6/9/2019 -- 13:35]  Scripts ran on main.js
+[6/9/2019 -- 13:35]  Scripts ran on main.js
+[6/9/2019 -- 13:35]  Scripts ran on main.js
+[6/9/2019 -- 13:35]  Scripts ran on main.js
+[6/9/2019 -- 13:36]  Scripts ran on main.js
+[6/9/2019 -- 13:43]  Info task started
+[6/9/2019 -- 13:45]  Sass ran on files
+[6/9/2019 -- 13:48]  Scripts ran on main.js
+[6/9/2019 -- 13:49]  Scripts ran on main.js
+[6/9/2019 -- 13:49]  Scripts ran on main.js
+[6/9/2019 -- 13:50]  Scripts ran on main.js
+[6/9/2019 -- 13:50]  Scripts ran on main.js
+[6/9/2019 -- 13:50]  Scripts ran on main.js
+[6/9/2019 -- 13:50]  Scripts ran on main.js
+[6/9/2019 -- 13:51]  Scripts ran on main.js
+[6/9/2019 -- 13:51]  Scripts ran on main.js
+[16/9/2019 -- 16:40]  Info task started
+[14/10/2019 -- 14:14]  Info task started
+[14/10/2019 -- 14:31]  Info task started
+[15/10/2019 -- 8:2]  Info task started
